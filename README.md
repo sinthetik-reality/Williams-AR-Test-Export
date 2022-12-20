@@ -15,7 +15,8 @@ Here are further resources I found while researching that may be helpful:
 
 These are the configuration settings I used that could have some impact on your application.
 
-Under Graphics API OpenGLES2 is being deprecated. It’s possible we want Vulcan enabled but I didn’t enable it in this version.
+Under Graphics API OpenGLES2 is being deprecated so I'm only using OpenGLES3. It’s possible we want Vulcan enabled but I didn’t enable it in this version.  
+![alt text](/readme_images/graphics.png)
 
-
-.NET Framework is the other option under Api Compatibility Level. I used .NET Standard 2.1. I also left on ARMv7 under Target Architectures.
+.NET Framework is the other option under Api Compatibility Level. I used .NET Standard 2.1. I also left on ARMv7 under Target Architectures.  
+![alt text](/readme_images/configuration.png)
