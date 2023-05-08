@@ -1,6 +1,6 @@
 # Williams-AR-Test-Export
  
-I’ve tested this on a Pixel 7 Android device. Move the phone around to scan a surface and some dots should appear indicating the surface. Once you see that then tap on the surface to place cubes. This repository is the complete export from Unity but my understanding is you only need the “unityLibrary” folder for integration into React Native. 
+I’ve tested this on a Pixel 7 Android device. Launch the app and look at the phone to see the Logan Sargeant's Helmet on your head. This Dir folder is the complete export from Unity but my understanding is you only need the “unityLibrary” folder for integration into React Native. 
 
 I used these articles as reference:  
 - https://jpdev8.medium.com/how-to-create-a-unity-library-for-react-native-android-2f6230d6cdcd  
